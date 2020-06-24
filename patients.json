@@ -1,0 +1,37 @@
+{
+  "patients":[
+  {
+    "id": 1,
+    "name": "Louise",
+    "diagnosis": "Lupus",
+    "vitaminDeficiencies": ["b12", "folate"],
+    "treatment": ["methylb12", "methylfolate"],
+    "symptoms": {
+      "allergies": ["nuts", "fish"],
+      "systemic": ["fatigue", "highBloodPressure"]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Thelma",
+    "diagnosis": "Beta Thalassemia ",
+    "vitaminDeficiencies": ["b12", "folate", "iron"],
+    "treatment": ["methylVitamins", "trimethylglycerine", "organic"],
+    "symptoms": {
+      "allergies": ["environment", "stressIntolerance"],
+      "systemic": ["heart", "lungs", "connective tissue"]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Patricia",
+    "diagnosis": "Ehlers Danlos Syndrome",
+    "vitaminDeficiencies": ["methylB12"],
+    "treatment": ["methylvitamins"],
+    "symptoms": {
+      "allergies": ["methylB12"],
+      "systemic": ["methylvitamins"]
+    }
+  }
+]
+}
