@@ -29,8 +29,8 @@
     "vitaminDeficiencies": ["methylB12"],
     "treatment": ["methylvitamins"],
     "symptoms": {
-      "allergies": ["methylB12"],
-      "systemic": ["methylvitamins"]
+      "allergies": ["soy"],
+      "systemic": ["thyroid"]
     }
   }
 ]
